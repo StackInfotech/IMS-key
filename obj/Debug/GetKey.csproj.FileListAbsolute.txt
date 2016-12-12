@@ -1,0 +1,5 @@
+E:\sachin\Inventory_X32bit_10-03-2016\GetKey\bin\Debug\GetKey.exe.config
+E:\sachin\Inventory_X32bit_10-03-2016\GetKey\bin\Debug\GetKey.exe
+E:\sachin\Inventory_X32bit_10-03-2016\GetKey\bin\Debug\GetKey.pdb
+E:\sachin\Inventory_X32bit_10-03-2016\GetKey\obj\Debug\GetKey.exe
+E:\sachin\Inventory_X32bit_10-03-2016\GetKey\obj\Debug\GetKey.pdb
